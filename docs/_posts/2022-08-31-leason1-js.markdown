@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "js-first-day"
+date:   2022-08-30 23:37:26 +0800
+categories: 编程语言学习
+---
+## 一些废话
+我选择了以Mozilla的js教程为主要学习材料<https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript>
+之前使用C++的过程中了解过一个概念，class-based / prototype-based 两种实现OOP的技术流。传统的C++代码都是class-based流，js则是prototype-based方式。今天的重点不在这里，就先暂时按下不表。
+## 基本类型
+- String
+- Boolean
+- Symbol
+- Number
+- Object
+  - Fuction
+  - Date
+  - RegExp
+  - Array
+- null
+- undefined
+震惊！！！js var关键字竟然能在声明之前就用，我震惊！
+switch支持字符串！
